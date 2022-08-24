@@ -1,7 +1,7 @@
 # elasticsearch-analysis-morphology
 Плагин для ElasticSearch (8.3.3) реализующий анализатор для русского и английского языка, используются словари проекта http://aot.ru.
 
-Предыдущая вресия была под ElasticSearch (8.1.3), здесь https://github.com/nickyat/elasticsearch-analysis-morphology.
+Предыдущая версия была под ElasticSearch (8.1.3), здесь https://github.com/nickyat/elasticsearch-analysis-morphology.
 
 Оригинальный плагин взят отсюда https://github.com/imotov/elasticsearch-analysis-morphology который в свою очередь использует
 russian_morphology и english_morphology от проекта Russian Morphology for Apache Lucene https://github.com/AKuznetsov/russianmorphology
